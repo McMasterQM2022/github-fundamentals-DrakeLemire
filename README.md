@@ -96,7 +96,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Complete the [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github) course. Upload proof of completion (a screenshot showing that all course components were completed or any other method of certifying completion suffices) to this repository. 
 * Optional: [Let GitHub know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
 
-> Completing the preceding steps suffices for an **S** for this assignment. To earn an **S+**, also complete the [intermediate GitHub course](https://lab.github.com/githubtraining/first-week-on-github). You do not have to complete section 5.
+> Completing the preceding steps suffices for an **S** for this assignment. To earn an **S+**, also complete the [intermediate GitHub course](https://lab.github.com/githubtraining/first-week-on-github). You do not have to complete section 5
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
